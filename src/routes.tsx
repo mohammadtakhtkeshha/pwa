@@ -1,5 +1,4 @@
 import Login from 'infrastructure/unauthorized/Login';
-import Regester from 'infrastructure/unauthorized/Regester';
 import { Home ,Process,Project,ProjectDetile} from 'views';
 
 interface RouteItem {
@@ -43,10 +42,7 @@ export const pathUnauthorizes: RouteItem[] = [
     path: '/',
     element: <Login/>,
   },
- {
-    path: '/regester',
-    element: <Regester/>,
-  },
+ 
   {
     path: '*',
     element: <Login />,
