@@ -1,0 +1,226 @@
+* {
+  font-family: iranyekan !important;
+}
+.swal2-confirm:focus,
+.swal2-deny:focus,
+.swal2-cancel:focus {
+  box-shadow: none !important;
+}
+@font-face {
+  font-family: iranyekan !important;
+  font-style: normal;
+  font-weight: bold;
+  src: url('assets/fonts/eot/IRANYekanWebBold.eot');
+  src: url('assets/fonts/eot/IRANYekanWebBold.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/IRANYekanWebBold.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebBold.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/IRANYekanWebBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url('assets/fonts/eot/IRANYekanWebRegular.eot');
+  src: url('assets/fonts/eot/IRANYekanWebRegular.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/IRANYekanWebRegular.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebRegular.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/IRANYekanWebRegular.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 850;
+  src: url('assets/fonts/eot/IRANYekanWebBlack.eot');
+  src: url('assets/fonts/eot/IRANYekanWebBlack.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/IRANYekanWebBlack.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebBlack.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/IRANYekanWebBlack.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url('assets/fonts/eot/IRANYekanWebExtraBlack.eot');
+  src: url('assets/fonts/eot/IRANYekanWebExtraBlack.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/IRANYekanWebExtraBlack.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebExtraBlack.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/IRANYekanWebExtraBlack.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: iranyekanFa;
+  font-style: normal;
+  font-weight: bold;
+  src: url('assets/fonts/eot/iranyekanwebextraboldfanum.eot');
+  src: url('assets/fonts/eot/iranyekanwebboldfanum.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/iranyekanwebboldfanum.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebBold.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/iranyekanwebboldfanum.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: iranyekanFa;
+  font-style: normal;
+  font-weight: normal;
+  src: url('assets/fonts/eot/iranyekanwebregularfanum.eot');
+  src: url('assets/fonts/eot/iranyekanwebregularfanum.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/iranyekanwebregularfanum.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebRegular.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/iranyekanwebregularfanum.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: iranyekanFa;
+  font-style: normal;
+  font-weight: 850;
+  src: url('assets/fonts/eot/iranyekanwebblackfanum.eot');
+  src: url('assets/fonts/eot/iranyekanwebblackfanum.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */ url('assets/fonts/woff/iranyekanwebblackfanum.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebBlack.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/iranyekanwebblackfanum.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: iranyekanFa;
+  font-style: normal;
+  font-weight: 900;
+  src: url('assets/fonts/eot/iranyekanwebextrablackfanum.eot');
+  src: url('assets/fonts/eot/iranyekanwebextrablackfanum.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-8 */
+      url('assets/fonts/woff/iranyekanwebextrablackfanum.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url('assets/fonts/woff2/IRANYekanWebExtraBlack.woff2')
+      format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/
+      url('assets/fonts/ttf/iranyekanwebextrablackfanum.ttf')
+      format('truetype');
+}
+* {
+  font-family: iranyekan !important;
+}
+
+body {
+  font-style: normal !important;
+  /* direction: rtl; */
+  overflow-x: hidden !important;
+  background-color: #f0f2fa !important;
+  background-image: url(../img/bgLogin.jpg);
+  margin: 0;
+  padding: 0;
+  overflow-y: auto !important;
+  padding-right: 0 !important;
+  z-index: 999999999;
+}
+.swal2-toast-shown .swal2-container {
+  z-index: 999999 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea {
+  font-family: iranyekan !important;
+}
+h1 {
+  font-family: 'iranyekan';
+  text-align: center;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.timer-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.timer {
+  font-family: 'iranyekan' !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  font-family: 'iranyekan' !important;
+  color: #aaa;
+}
+
+.value {
+  font-size: 40px;
+}
+
+.info {
+  max-width: 360px;
+  margin: 40px auto 0;
+  text-align: center;
+  font-size: 16px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+/* #root {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+#root > div {
+  flex-grow: 1;
+} */

@@ -1,0 +1,14 @@
+{
+  "gl": {
+    "arbaeen": "اربعین",
+    "username": "نام کاربری",
+    "password": "پسورد",
+    "code": "کد امنیتی ",
+    "loginPanele": " ورود به پنل",
+    "hOJANGroup": " Copyright © HOJAN Group 2023.",
+    "errPassword": "'پسورد خود را وارد کنید'",
+    "errPasswordLength": "پسورد باید 8 کاراکتر باشد'",
+    "errcode": "کد امنیتی را وارد کنید",
+    "errUserNmae": "نام کاربری را وارد کنید"
+  }
+}
